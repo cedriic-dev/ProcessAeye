@@ -1,0 +1,11 @@
+matplotlib
+numpy
+opencv_python
+Pillow
+PyQt5
+PyQt5_sip
+pyvirtualcam
+PyYAML
+torch
+torchvision
+scikit-image
