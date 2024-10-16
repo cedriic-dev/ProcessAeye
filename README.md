@@ -45,10 +45,10 @@ Installieren Sie OBS-Studio, fall Sie die virtuelle Kamera verwenden wollen.
 
 ### Klonen
 
-Klonen Sie sich das Projekt:
+Klonen Sie das Projekt:
 
 ```shell
-git clone https://gitlab.htl-perg.ac.at/diplomarbeiten/2024/processaeye.git
+git clone https://github.com/cedriic-dev/ProcessAeye.git
 ```
 
 
