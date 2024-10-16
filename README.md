@@ -23,7 +23,7 @@ Das Ergebnis ist eine Desktopanwendung, welche für den **NVIDIA Jetson Nano** o
 
 ## Python Installation
 
-Laden Sie Python >= 3.8.0 herunter.
+Laden Sie Python >= 3.8.0 <= 3.11.0 herunter.
 Folgen Sie den Anweisungen des Installationsassistenten.
 
 ### CUDA(Optional)
