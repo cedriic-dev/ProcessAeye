@@ -1,4 +1,5 @@
 # ProcessAeye: Echtzeit Kamera Inpainting
+# Realtime Image Inpainting
 
 Die Grundidee von [**ProcessAeye**](https://dspace.htl-perg.ac.at/items/a8b2af86-e560-45d8-b983-512e8ce28cdd) ist es, fehlende oder beschädigte Teile eines Bildes in Echtzeit wiederherzustellen. Ziel ist eine Anwendung, welche Bilder einer Kamera einliest und diese anhand von fehlenden Bereichen wiederherstellt. Diese fehlenden Bereiche werden dabei vom Benutzer festgelegt.
 
